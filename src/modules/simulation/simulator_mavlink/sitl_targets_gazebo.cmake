@@ -107,6 +107,7 @@ set(worlds
 	warehouse
 	windy
 	yosemite
+	hca_full_setup
 )
 
 foreach(debugger ${debuggers})
